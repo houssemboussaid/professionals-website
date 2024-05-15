@@ -44,16 +44,13 @@
     
    p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, ;
-    color: white;
+    color: black;
     text-align:left; 
     
 
    }
-   body{ 
-    background-image: url("juge.jpg");
-    background-size: cover;
+   
 
-   }
    .contact{
     text-align: center;
     border: 4px solidwhitesmok;
@@ -63,11 +60,11 @@
 
    .Confidalité{
     text-align: center; 
-    color: white; 
+    color: black;
    }  
    .Case study{ 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color:white;
+    background-color:black;
     text-align:left;   
     text-underline-position: auto;
    }
@@ -75,7 +72,7 @@
     border-style: groove;
    }
    .Etudedecas{
-    color:whitesmoke;
+    color:black;
     text-align:justify; 
     text-decoration: dashed;
     text-decoration:underline;
@@ -83,14 +80,82 @@
    .law{
     width: 500px;
     height: 500px;
-    color:white; 
+    color:black; 
     font-size: 20px;
     padding: 10px;
     border-radius: 10px; 
-    border: 4px  solid white;
+    border: 4px  solid black;
    } 
    h3{
     text-align:center; 
     text-decoration: none;
    }
-   
+   .our{
+    text-align: center;
+    color:white; 
+    text-decoration: underline;
+    text-decoration: dashed;  
+    padding-top: 10px 10px 0px 0px;
+   } 
+.Responsiveness{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  font-size: medium;
+  font-display: 24px; 
+  font-stretch: normal;
+  text-align: center; 
+  font-synthesis-weight: 25px;
+} 
+
+
+.Element style{
+  width:100%; 
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 50%; 
+} 
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  
+}
+
+.image-with-text {
+  display: flex;
+}
+
+.image-container {
+  margin-right: 20px; 
+}
+
+.image-container img {
+  width: 100px; 
+  height: auto; 
+}
+.image-with-text{
+  border: 4px solid ,black; 
+  border-radius: 10px;
+}
+.Role{
+  text-align: justify;
+}
+

@@ -1,0 +1,24 @@
+site web (front-back end)
+*Contact system 
+*product mangment system 
+*Comment &Rating
+=====> 
+Sécurité Autentifaication & authrization 
+BD: Confidalité ,intégrité , Avaiblity =====>CIA  
+
+1 /USER (id,nom,prénom,email) 
+2/ Contact(id,user-id,subject,message, Date-usd)
+=======>My Sql 
+
+
+formulaire   
+
+
+vALIDATE Post date 
+if ($post 
+
+
+VALIDATE post date
+($_post ["nom"]=="") 
+and  ("prénom"] 
+   
